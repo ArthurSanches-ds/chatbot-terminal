@@ -6,15 +6,15 @@ Este projeto foi construído como exercício prático de retomada de Python, con
 
 ## Demonstração
 
-Conversa normal, com o histórico sendo mantido entre as mensagens:
+Teste do tratamento de erro — API Key inválida sendo detectada sem travar o programa:
 
 ![Conversa funcionando](assets/chatbot1.png)
 
-Teste do tratamento de erro — API Key inválida sendo detectada sem travar o programa:
+Após corrigir a chave, a conversa volta a funcionar normalmente:
 
 ![Erro de autenticação tratado](assets/chatbot2.png)
 
-Após corrigir a chave, a conversa volta a funcionar normalmente:
+Conversa normal, com o histórico sendo mantido entre as mensagens:
 
 ![Conversa restaurada](assets/chatbot3.png)
 
